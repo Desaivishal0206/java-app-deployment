@@ -8,7 +8,7 @@ pipleline{
 
                 script{
 
-                    git branch: 'main', url:'https://github.com/Desaivishal0206/java-app-deployment.git'
+                    git branch: 'main', url: 'https://github.com/Desaivishal0206/java-app-deployment.git'
                 }
             }
         }
